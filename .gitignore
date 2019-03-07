@@ -1,0 +1,17 @@
+*.o
+*.mem
+*.stg
+*.dbg
+*.glo
+ctwg-code/equRoomCtrlBoard/Base/bin/
+.r59
+*.lst
+*.r59
+*.s59
+ctwg-code/equRoomCtrlBoard/Base/Sources/includes.h
+.h
+*.vtg
+*.vpj
+ctwg-code/sigColBoard/sigColBoard.vpw
+ctwg-code/sigColBoard/sigColBoard.vpwhist
+ctwg-code/sigColBoard/.vscode/settings.json
