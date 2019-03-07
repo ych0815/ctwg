@@ -48,7 +48,6 @@ extern  void    AppProbeInit(void);
 
 void main (void)
 {
-	/*git ≤‚ ‘*/
     CPU_INT08U  err;
 
     BSP_IntDisAll();                                                    /* Disable ALL interrupts to the interrupt controller       */
